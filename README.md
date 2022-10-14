@@ -1,3 +1,3 @@
 # IKDUhomework
 programmering homework
-the fist homework
+The fist homework
